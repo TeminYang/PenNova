@@ -6,7 +6,7 @@
 
 ## 🏆 第二十七届中国机器人及人工智能大赛 人工智能创新赛 作品
 
-**[🔗 访问我们的项目展示网站](https://xrose3159.github.io/RhythmsWritting/)**
+**[🔗 访问我们的项目展示网站](https://teminyang.github.io/PenNova/)**
 
 ## 项目背景
 
